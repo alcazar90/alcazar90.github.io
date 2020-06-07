@@ -1,6 +1,6 @@
 # From scracth: first static site using jekyll
 
-Repository for the project from scratch.
+Website of the project [from scratch](https://alcazar90.github.io/from_scratch/).
 
 Add deployment pipeline with CI Travis.
 

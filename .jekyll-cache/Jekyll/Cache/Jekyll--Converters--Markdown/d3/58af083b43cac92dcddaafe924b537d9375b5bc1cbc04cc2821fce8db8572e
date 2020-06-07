@@ -1,0 +1,8 @@
+I"ú<h1>hello world!</h1>
+<p>My first function:
+       <figure class="highlight"><pre><code class="language-python" data-lang="python"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="code"><pre>	<span class="k">def</span> <span class="nf">foo</span><span class="p">():</span>
+	  <span class="k">print</span><span class="p">(</span><span class="s">'Hello World'</span><span class="p">)</span> 
+</pre></td></tr></tbody></table></code></pre></figure></p>
+:ET
